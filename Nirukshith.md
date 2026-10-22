@@ -60,19 +60,6 @@ A full-stack film discovery and social platform that helps users explore films, 
 
 **Tech:** React · Node.js · Express.js · MongoDB Atlas Vector Search · TMDB API · LLM APIs · LRU Cache
 
-### ⚙️ CNC Paper Board Cutting Machine — IoT Project
-
-A microcontroller-based semi-automated cutting system integrating embedded control, sensor feedback, motors, and G-code execution for precise and repeatable cutting.
-
-**Tech:** ESP32 · Stepper Motors · Servo Motors · IR Sensors · CAD/CAM
-
-## Leadership & Community
-
-- Batch Representative — Level 2, Faculty of IT
-- Team Leader and Campaign Specialist — AIESEC
-- Chess Coach — Maveerar Vallatta Kalagam, Batticaloa
-- Script Writer — Summit Sustainability
-
 ## Let's Connect
 
 I'm always interested in learning, collaborating, and discussing software engineering ideas.
