@@ -65,7 +65,7 @@ A full-stack film discovery and social platform that helps users explore films, 
 I'm always interested in learning, collaborating, and discussing software engineering ideas.
 
 - **Email:** [nirukshith@gmail.com](mailto:nirukshith@gmail.com)
-- **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- **LinkedIn:** [Nirukshith Premkumar](https://www.linkedin.com/)
 
 ---
 
