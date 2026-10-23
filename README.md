@@ -2,13 +2,12 @@
 
 > *Building things that work. Learning things that matter.*
 
-Third-year **IT & Management** undergrad at University of Moratuwa · Software Engineering Intern · Based in Sri Lanka
-
+Third-year **IT & Management** undergrad at University of Moratuwa 
 ---
 
 ### What I do
 
-I turn real-world problems into dependable software — from database schema to REST APIs to React interfaces.
+I turn real-world problems into dependable software — from database schema to REST APIs to interfaces people actually enjoy using.
 
 - 🧠 **Thinking in systems** — clean backend design, solid data models
 - ⚡ **Building in full-stack** — React on the front, Spring Boot / Node.js on the back
