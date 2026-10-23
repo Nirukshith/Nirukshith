@@ -8,16 +8,12 @@ Third-year **IT & Management** undergrad at University of Moratuwa · Software E
 
 ### What I do
 
-I turn real-world problems into dependable software — from database schema to REST APIs to React interfaces. I care about clean structure more than clever tricks.
+I turn real-world problems into dependable software — from database schema to REST APIs to React interfaces.
 
-```ts
-const me = {
-  focus:     ["Full-stack dev", "Backend engineering", "Reliable systems"],
-  exploring: ["AI-powered features", "Vector search", "Workflow automation"],
-  learning:  ["Cloud & DevOps", "System design"],
-  currently: "Open to internships & collaboration",
-};
-```
+- 🧠 **Thinking in systems** — clean backend design, solid data models
+- ⚡ **Building in full-stack** — React on the front, Spring Boot / Node.js on the back
+- 🤖 **Experimenting with AI** — vector search, LLM integrations, workflow automation
+- 📦 **Currently:** open to internships & collaboration
 
 ---
 
@@ -52,4 +48,11 @@ Built with MongoDB Atlas Vector Search on TMDB data, plus real-time discussions 
 
 ### Let's connect
 
-📧 [nirukshith@gmail.com](mailto:nirukshith@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/)
+I'm always up for interesting conversations — whether it's a project idea, an internship opportunity, or just talking tech.
+
+| | |
+|---|---|
+| 📧 **Email** | [nirukshith@gmail.com](mailto:nirukshith@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/nirukshith](https://www.linkedin.com/in/nirukshith2002/) |
+
+> *If you've made it this far — let's build something together.*
